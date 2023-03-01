@@ -1,6 +1,9 @@
-RoboFriendlyApp project 
+# RoboFriendsApp
 
+A RoboFriendlyApp made using React Js
 
+### Clone the Repository
+### `npm install`
 ### `npm start`
 
 Runs the app in the development mode.\
